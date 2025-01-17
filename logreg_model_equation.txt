@@ -1,0 +1,1 @@
+Churn = 1 / (1 + exp(-(Intercept + -0.0237 * Age + 1.1276 * Default + 1.0509 * Balance + -0.2365 * Housing Loan + -0.3051 * Personal Loan + -2.0903 * Current Campaign + 0.1725 * Marital_Divorced + 0.1427 * Marital_Married + -0.3174 * Marital_Single + -1.3349))
